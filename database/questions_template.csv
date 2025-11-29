@@ -1,3 +1,0 @@
-title,content,option_a,option_b,option_c,option_d,option_e,correct_option,explanation,category,difficulty
-"Soal Contoh 1","<p>Jika 3x + 5 = 20, maka nilai x adalah...</p>","3","5","7","10","15","B","<p>3x + 5 = 20<br>3x = 15<br>x = 5</p>","PK","easy"
-"Soal Contoh 2","<p>Rata-rata dari 5 bilangan adalah 20. Jika ditambah satu bilangan lagi, rata-ratanya menjadi 22. Bilangan yang ditambahkan adalah...</p>","28","30","32","34","36","C","<p>Total 5 bilangan = 5 × 20 = 100<br>Total 6 bilangan = 6 × 22 = 132<br>Bilangan ditambahkan = 132 - 100 = 32</p>","PK","medium"
